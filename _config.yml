@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Lubna Alhinti"
+  name             : "Lubna Alhinti"
   avatar           : #"profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
-  location         : #"Location"
+  bio              : 
+  location         : "Speech and Hearing Research Group Department of Computer Science University of Sheffield Regent Court, 211 Portobello St. Sheffield, S1 4DP, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : laalhinti1@sheffield.ac.uk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
