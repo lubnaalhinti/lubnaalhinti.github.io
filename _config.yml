@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lubna Alhinti"
+  avatar           : "spandh_med_hr.jpeg"
   bio              : "Speech and Hearing Research Group"
   location         : "Department of Computer Science"
   employer         : "University of Sheffield"
