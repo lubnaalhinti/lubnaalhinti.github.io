@@ -14,9 +14,10 @@
 [comment]: <> ({% for post in site.publications reversed %})
 [comment]: <> (  {% include archive-single.html %})
 [comment]: <> ({% endfor %})
+
 ---
-permalink: /
-title: ""
+permalink: /publications/
+title: "Publications"
 excerpt: "Publications"
 author_profile: true
 ---
