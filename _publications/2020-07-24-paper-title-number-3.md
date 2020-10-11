@@ -1,7 +1,7 @@
 ---
 title: "Recognising Emotions in Dysarthric Speech Using Typical Speech Data"
 collection: publications
-permalink: /publication/2020-paper-title-number-3
+permalink: /publication/2020-07-24-paper-title-number-3
 excerpt: 
 date: 2020-07-24
 venue: 'INTERSPEECH 2020'
