@@ -11,7 +11,7 @@ title                    : "Lubna Alhinti"
 title_separator          : "-"
 name                     : &name "Lubna Alhinti"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lubnaalhinti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Lubna Alhinti"
-  avatar           : 
-  bio              : 
-  location         : "Speech and Hearing Research Group"   
-  address1         : "Department of Computer Science"
-  address2         : "University of Sheffield Regent Court"
-  address3         : "211 Portobello St."
-  address4         : "Sheffield, S1 4DP, UK"
+  bio              : "Speech and Hearing Research Group"
+  location         : "Department of Computer Science"
+  employer         : "University of Sheffield Regent Court \n 211 Portobello St.\n Sheffield, S1 4DP, UK"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  
+  address3         : 
+  address4         : 
   email            : laalhinti1@sheffield.ac.uk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
