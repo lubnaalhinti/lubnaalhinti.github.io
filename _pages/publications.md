@@ -12,8 +12,5 @@ author_profile: true
 {% include base_path %}
 
 
+Alhinti, L., Christensen, H., & Cunningham, S. (2020). **An Exploratory Survey Questionnaire to Understand What Emotions Are Important and Difficult to Communicate for People with Dysarthria and Their Methodology of Communicating**. International Journal of Psychological and Behavioral Sciences, 14(7), 187-191.
 
-
-I am a PhD student in the Department of Computer Science at the University of Sheffield under the supervision of [Dr Heidi Christensen](https://heidi-christensen.github.io/website//) and Dr [Stuart Cunningham](https://www.sheffield.ac.uk/health-sciences/people/human-communication-sciences/stuart-cunningham). I am part of the [Speech and Hearing Research Group (SPandH)](https://www.sheffield.ac.uk/dcs/research/groups/spandh). 
-
-My research interests focus on the application of audio and speech technology to the healthcare domain. Mainly, recognising paralinguistic information in the speech of people with dysarthria. 
